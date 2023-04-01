@@ -1,0 +1,4 @@
+# robots.txt file: Created by Kamal Kishor (kadvoscp)
+User-agent: *
+Disallow:
+Sitemap: https://kamal.pages.dev/pages/sitemap.xml

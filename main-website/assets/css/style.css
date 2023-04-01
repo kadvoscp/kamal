@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'kadv';
+  src: url('../font/kadv.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: 'kadv', sans-serif;
+}
+
+header ul,
+footer ul {
+  list-style: none;
+  padding: 0;
+}
+
+header li,
+footer li {
+  display: inline-block;
+  margin: 0.5rem;
+}
